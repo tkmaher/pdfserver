@@ -16,5 +16,13 @@
     "dotenv": "^17.2.3",
     "mime-types": "^3.0.1",
     "p-limit": "^7.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkmaher/pdfserver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tkmaher/pdfserver/issues"
+  },
+  "homepage": "https://github.com/tkmaher/pdfserver#readme"
 }
